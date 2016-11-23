@@ -1,0 +1,38 @@
+
+WSGIPythonPath /var/www/FlaskApp2/FlaskApp2:/var/www/FlaskApp/FlaskApp
+<VirtualHost *:80>
+                ServerName https://7a78657b7a.dataplicity.io
+                
+                DocumentRoot /var/www/FlaskApp2/FlaskApp2/templates
+
+
+                WSGIScriptAlias /flask2 /var/www/FlaskApp2/flaskapp2.wsgi
+
+               <Directory /var/www/FlaskApp2/FlaskApp2/>
+                        Order allow,deny
+                        Allow from all
+                </Directory>
+
+                Alias /FlaskApp2/static /var/www/FlaskApp2/FlaskApp2/static
+                <Directory /var/www/FlaskApp2/FlaskApp2/static/>
+                        Order allow,deny
+                        Allow from all
+                </Directory>
+
+
+                  WSGIScriptAlias /flask /var/www/FlaskApp/flaskapp.wsgi
+               <Directory /var/www/FlaskApp/FlaskApp/>
+                        Order allow,deny
+                        Allow from all
+                </Directory>
+
+                Alias /FlaskApp/static /var/www/FlaskApp/FlaskApp/static
+                <Directory /var/www/FlaskApp/FlaskApp/static/>
+                        Order allow,deny
+                        Allow from all
+                </Directory>
+
+                ErrorLog ${APACHE_LOG_DIR}/error.log
+                LogLevel warn
+                CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
