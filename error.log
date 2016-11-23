@@ -1,0 +1,310 @@
+[Mon Nov 21 11:25:16.437671 2016] [mpm_event:notice] [pid 1637:tid 1996054528] AH00489: Apache/2.4.10 (Raspbian) configured -- resuming normal operations
+[Mon Nov 21 11:25:16.438348 2016] [core:notice] [pid 1637:tid 1996054528] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 11:17:29.620585 2016] [wsgi:warn] [pid 760:tid 1996111872] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 11:17:29.621597 2016] [wsgi:warn] [pid 760:tid 1996111872] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 11:17:29.625446 2016] [mpm_event:notice] [pid 760:tid 1996111872] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 11:17:29.625647 2016] [core:notice] [pid 760:tid 1996111872] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 11:17:20.188262 2016] [wsgi:warn] [pid 645:tid 1996021760] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 11:17:20.195447 2016] [wsgi:warn] [pid 645:tid 1996021760] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 11:17:20.199644 2016] [mpm_event:notice] [pid 645:tid 1996021760] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 11:17:20.199940 2016] [core:notice] [pid 645:tid 1996021760] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 12:20:54.183946 2016] [mpm_event:notice] [pid 645:tid 1996021760] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 21 12:20:54.252635 2016] [wsgi:warn] [pid 645:tid 1996021760] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 12:20:54.252758 2016] [wsgi:warn] [pid 645:tid 1996021760] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 12:20:54.253137 2016] [mpm_event:notice] [pid 645:tid 1996021760] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 12:20:54.253200 2016] [core:notice] [pid 645:tid 1996021760] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 12:25:10.310123 2016] [wsgi:error] [pid 849:tid 1972368432] [client 127.0.0.1:40854] Target WSGI script not found or unable to stat: /var/www/FlaskApp/flaskapp.wsgi, referer: https://www.dataplicity.com/devices/db49f84c-1593-4b1f-8217-30a87b868a0b/
+[Mon Nov 21 12:25:34.104114 2016] [mpm_event:notice] [pid 645:tid 1996021760] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 21 12:25:34.152117 2016] [wsgi:warn] [pid 645:tid 1996021760] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 12:25:34.152279 2016] [wsgi:warn] [pid 645:tid 1996021760] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 12:25:34.152641 2016] [mpm_event:notice] [pid 645:tid 1996021760] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 12:25:34.152732 2016] [core:notice] [pid 645:tid 1996021760] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 12:28:06.131699 2016] [mpm_event:notice] [pid 645:tid 1996021760] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 21 12:28:06.192628 2016] [wsgi:warn] [pid 645:tid 1996021760] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 12:28:06.192783 2016] [wsgi:warn] [pid 645:tid 1996021760] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 12:28:06.193076 2016] [mpm_event:notice] [pid 645:tid 1996021760] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 12:28:06.193153 2016] [core:notice] [pid 645:tid 1996021760] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 12:35:13.426089 2016] [mpm_event:notice] [pid 645:tid 1996021760] AH00491: caught SIGTERM, shutting down
+[Mon Nov 21 12:35:14.809777 2016] [wsgi:warn] [pid 1183:tid 1996132352] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 12:35:14.810110 2016] [wsgi:warn] [pid 1183:tid 1996132352] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 12:35:14.814015 2016] [mpm_event:notice] [pid 1183:tid 1996132352] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 12:35:14.814220 2016] [core:notice] [pid 1183:tid 1996132352] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 12:37:42.679196 2016] [mpm_event:notice] [pid 1183:tid 1996132352] AH00491: caught SIGTERM, shutting down
+[Mon Nov 21 12:37:44.051359 2016] [wsgi:warn] [pid 1337:tid 1995952128] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 12:37:44.051719 2016] [wsgi:warn] [pid 1337:tid 1995952128] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 12:37:44.055596 2016] [mpm_event:notice] [pid 1337:tid 1995952128] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 12:37:44.055809 2016] [core:notice] [pid 1337:tid 1995952128] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 11:17:20.934501 2016] [wsgi:warn] [pid 646:tid 1995407360] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 11:17:20.941098 2016] [wsgi:warn] [pid 646:tid 1995407360] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 11:17:20.946726 2016] [mpm_event:notice] [pid 646:tid 1995407360] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 11:17:20.946988 2016] [core:notice] [pid 646:tid 1995407360] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Nov 21 11:17:20.303089 2016] [wsgi:warn] [pid 761:tid 1996058624] mod_wsgi: Compiled for Python/2.7.8.
+[Mon Nov 21 11:17:20.305164 2016] [wsgi:warn] [pid 761:tid 1996058624] mod_wsgi: Runtime using Python/2.7.9.
+[Mon Nov 21 11:17:20.310922 2016] [mpm_event:notice] [pid 761:tid 1996058624] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Mon Nov 21 11:17:20.311202 2016] [core:notice] [pid 761:tid 1996058624] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 18:07:14.817888 2016] [mpm_event:notice] [pid 761:tid 1996058624] AH00491: caught SIGTERM, shutting down
+[Tue Nov 22 18:07:24.533457 2016] [wsgi:warn] [pid 684:tid 1996177408] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 18:07:24.540285 2016] [wsgi:warn] [pid 684:tid 1996177408] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 18:07:24.545844 2016] [mpm_event:notice] [pid 684:tid 1996177408] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 18:07:24.546108 2016] [core:notice] [pid 684:tid 1996177408] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 18:09:59.733478 2016] [mpm_event:notice] [pid 684:tid 1996177408] AH00491: caught SIGTERM, shutting down
+[Tue Nov 22 18:10:16.863930 2016] [wsgi:warn] [pid 687:tid 1996345344] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 18:10:16.870311 2016] [wsgi:warn] [pid 687:tid 1996345344] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 18:10:16.874639 2016] [mpm_event:notice] [pid 687:tid 1996345344] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 18:10:16.874853 2016] [core:notice] [pid 687:tid 1996345344] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 18:13:54.292606 2016] [mpm_event:notice] [pid 687:tid 1996345344] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 22 18:13:54.344235 2016] [wsgi:warn] [pid 687:tid 1996345344] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 18:13:54.344371 2016] [wsgi:warn] [pid 687:tid 1996345344] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 18:13:54.344630 2016] [mpm_event:notice] [pid 687:tid 1996345344] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 18:13:54.344749 2016] [core:notice] [pid 687:tid 1996345344] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 18:37:15.631847 2016] [mpm_event:notice] [pid 687:tid 1996345344] AH00491: caught SIGTERM, shutting down
+[Tue Nov 22 18:37:32.940353 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 18:37:32.941520 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 18:37:32.947097 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 18:37:32.947392 2016] [core:notice] [pid 690:tid 1995632640] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 18:41:02.856830 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 22 18:41:02.901463 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 18:41:02.901617 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 18:41:02.901942 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 18:41:02.902028 2016] [core:notice] [pid 690:tid 1995632640] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 20:23:45.445016 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/var/www/mjpg-streamer/www/stream_simple.html] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 22 20:23:45.496226 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 20:23:45.496361 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 20:23:45.496673 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 20:23:45.496744 2016] [core:notice] [pid 690:tid 1995632640] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 20:25:12.884483 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928] [2016-11-22 20:25:12,871] ERROR in app: Exception on / [GET]
+[Tue Nov 22 20:25:12.884693 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928] Traceback (most recent call last):
+[Tue Nov 22 20:25:12.884737 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Tue Nov 22 20:25:12.884773 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     response = self.full_dispatch_request()
+[Tue Nov 22 20:25:12.884808 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Tue Nov 22 20:25:12.884844 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     rv = self.handle_user_exception(e)
+[Tue Nov 22 20:25:12.884878 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Tue Nov 22 20:25:12.884912 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     reraise(exc_type, exc_value, tb)
+[Tue Nov 22 20:25:12.884945 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Tue Nov 22 20:25:12.884980 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     rv = self.dispatch_request()
+[Tue Nov 22 20:25:12.885088 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Tue Nov 22 20:25:12.885127 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     return self.view_functions[rule.endpoint](**req.view_args)
+[Tue Nov 22 20:25:12.885160 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/var/www/FlaskApp/FlaskApp/__init__.py", line 8, in homepage
+[Tue Nov 22 20:25:12.885191 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     subprocess.call(['./test.sh'])
+[Tue Nov 22 20:25:12.885222 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/usr/lib/python2.7/subprocess.py", line 522, in call
+[Tue Nov 22 20:25:12.885253 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     return Popen(*popenargs, **kwargs).wait()
+[Tue Nov 22 20:25:12.885284 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/usr/lib/python2.7/subprocess.py", line 710, in __init__
+[Tue Nov 22 20:25:12.885314 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     errread, errwrite)
+[Tue Nov 22 20:25:12.885344 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]   File "/usr/lib/python2.7/subprocess.py", line 1335, in _execute_child
+[Tue Nov 22 20:25:12.885375 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928]     raise child_exception
+[Tue Nov 22 20:25:12.885404 2016] [wsgi:error] [pid 4176:tid 1955591216] [client 127.0.0.1:51928] OSError: [Errno 2] No such file or directory
+[Tue Nov 22 20:25:12.886098 2016] [wsgi:error] [pid 4176:tid 1955591216] ERROR:FlaskApp:Exception on / [GET]
+[Tue Nov 22 20:25:12.886165 2016] [wsgi:error] [pid 4176:tid 1955591216] Traceback (most recent call last):
+[Tue Nov 22 20:25:12.886198 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Tue Nov 22 20:25:12.886228 2016] [wsgi:error] [pid 4176:tid 1955591216]     response = self.full_dispatch_request()
+[Tue Nov 22 20:25:12.886257 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Tue Nov 22 20:25:12.886286 2016] [wsgi:error] [pid 4176:tid 1955591216]     rv = self.handle_user_exception(e)
+[Tue Nov 22 20:25:12.886315 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Tue Nov 22 20:25:12.886344 2016] [wsgi:error] [pid 4176:tid 1955591216]     reraise(exc_type, exc_value, tb)
+[Tue Nov 22 20:25:12.886372 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Tue Nov 22 20:25:12.886402 2016] [wsgi:error] [pid 4176:tid 1955591216]     rv = self.dispatch_request()
+[Tue Nov 22 20:25:12.886430 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Tue Nov 22 20:25:12.886461 2016] [wsgi:error] [pid 4176:tid 1955591216]     return self.view_functions[rule.endpoint](**req.view_args)
+[Tue Nov 22 20:25:12.886491 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/var/www/FlaskApp/FlaskApp/__init__.py", line 8, in homepage
+[Tue Nov 22 20:25:12.886520 2016] [wsgi:error] [pid 4176:tid 1955591216]     subprocess.call(['./test.sh'])
+[Tue Nov 22 20:25:12.886548 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/usr/lib/python2.7/subprocess.py", line 522, in call
+[Tue Nov 22 20:25:12.886577 2016] [wsgi:error] [pid 4176:tid 1955591216]     return Popen(*popenargs, **kwargs).wait()
+[Tue Nov 22 20:25:12.886606 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/usr/lib/python2.7/subprocess.py", line 710, in __init__
+[Tue Nov 22 20:25:12.886634 2016] [wsgi:error] [pid 4176:tid 1955591216]     errread, errwrite)
+[Tue Nov 22 20:25:12.886703 2016] [wsgi:error] [pid 4176:tid 1955591216]   File "/usr/lib/python2.7/subprocess.py", line 1335, in _execute_child
+[Tue Nov 22 20:25:12.886738 2016] [wsgi:error] [pid 4176:tid 1955591216]     raise child_exception
+[Tue Nov 22 20:25:12.886766 2016] [wsgi:error] [pid 4176:tid 1955591216] OSError: [Errno 2] No such file or directory
+[Tue Nov 22 20:26:14.738953 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 22 20:26:14.782166 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 20:26:14.782340 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 20:26:14.782837 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 20:26:14.782939 2016] [core:notice] [pid 690:tid 1995632640] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 20:26:42.286048 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944] [2016-11-22 20:26:42,276] ERROR in app: Exception on / [GET]
+[Tue Nov 22 20:26:42.286249 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944] Traceback (most recent call last):
+[Tue Nov 22 20:26:42.286294 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Tue Nov 22 20:26:42.286331 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     response = self.full_dispatch_request()
+[Tue Nov 22 20:26:42.286365 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Tue Nov 22 20:26:42.286401 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     rv = self.handle_user_exception(e)
+[Tue Nov 22 20:26:42.286434 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Tue Nov 22 20:26:42.286468 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     reraise(exc_type, exc_value, tb)
+[Tue Nov 22 20:26:42.286502 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Tue Nov 22 20:26:42.286538 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     rv = self.dispatch_request()
+[Tue Nov 22 20:26:42.286570 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Tue Nov 22 20:26:42.286605 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     return self.view_functions[rule.endpoint](**req.view_args)
+[Tue Nov 22 20:26:42.286640 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/var/www/FlaskApp/FlaskApp/__init__.py", line 8, in homepage
+[Tue Nov 22 20:26:42.286674 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     subprocess.call(['./test.sh'])
+[Tue Nov 22 20:26:42.286707 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/usr/lib/python2.7/subprocess.py", line 522, in call
+[Tue Nov 22 20:26:42.286741 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     return Popen(*popenargs, **kwargs).wait()
+[Tue Nov 22 20:26:42.286776 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/usr/lib/python2.7/subprocess.py", line 710, in __init__
+[Tue Nov 22 20:26:42.286809 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     errread, errwrite)
+[Tue Nov 22 20:26:42.286842 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]   File "/usr/lib/python2.7/subprocess.py", line 1335, in _execute_child
+[Tue Nov 22 20:26:42.286932 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944]     raise child_exception
+[Tue Nov 22 20:26:42.286967 2016] [wsgi:error] [pid 4305:tid 1947202608] [client 127.0.0.1:51944] OSError: [Errno 2] No such file or directory
+[Tue Nov 22 20:26:42.287581 2016] [wsgi:error] [pid 4305:tid 1947202608] ERROR:FlaskApp:Exception on / [GET]
+[Tue Nov 22 20:26:42.287639 2016] [wsgi:error] [pid 4305:tid 1947202608] Traceback (most recent call last):
+[Tue Nov 22 20:26:42.287673 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Tue Nov 22 20:26:42.287704 2016] [wsgi:error] [pid 4305:tid 1947202608]     response = self.full_dispatch_request()
+[Tue Nov 22 20:26:42.287733 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Tue Nov 22 20:26:42.287763 2016] [wsgi:error] [pid 4305:tid 1947202608]     rv = self.handle_user_exception(e)
+[Tue Nov 22 20:26:42.287792 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Tue Nov 22 20:26:42.287821 2016] [wsgi:error] [pid 4305:tid 1947202608]     reraise(exc_type, exc_value, tb)
+[Tue Nov 22 20:26:42.287849 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Tue Nov 22 20:26:42.287878 2016] [wsgi:error] [pid 4305:tid 1947202608]     rv = self.dispatch_request()
+[Tue Nov 22 20:26:42.287906 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Tue Nov 22 20:26:42.287936 2016] [wsgi:error] [pid 4305:tid 1947202608]     return self.view_functions[rule.endpoint](**req.view_args)
+[Tue Nov 22 20:26:42.287966 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/var/www/FlaskApp/FlaskApp/__init__.py", line 8, in homepage
+[Tue Nov 22 20:26:42.287995 2016] [wsgi:error] [pid 4305:tid 1947202608]     subprocess.call(['./test.sh'])
+[Tue Nov 22 20:26:42.288023 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/usr/lib/python2.7/subprocess.py", line 522, in call
+[Tue Nov 22 20:26:42.288053 2016] [wsgi:error] [pid 4305:tid 1947202608]     return Popen(*popenargs, **kwargs).wait()
+[Tue Nov 22 20:26:42.288082 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/usr/lib/python2.7/subprocess.py", line 710, in __init__
+[Tue Nov 22 20:26:42.288110 2016] [wsgi:error] [pid 4305:tid 1947202608]     errread, errwrite)
+[Tue Nov 22 20:26:42.288139 2016] [wsgi:error] [pid 4305:tid 1947202608]   File "/usr/lib/python2.7/subprocess.py", line 1335, in _execute_child
+[Tue Nov 22 20:26:42.288168 2016] [wsgi:error] [pid 4305:tid 1947202608]     raise child_exception
+[Tue Nov 22 20:26:42.288195 2016] [wsgi:error] [pid 4305:tid 1947202608] OSError: [Errno 2] No such file or directory
+[Tue Nov 22 20:30:49.540043 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 22 20:30:49.591773 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 20:30:49.591926 2016] [wsgi:warn] [pid 690:tid 1995632640] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 20:30:49.592264 2016] [mpm_event:notice] [pid 690:tid 1995632640] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 20:30:49.592467 2016] [core:notice] [pid 690:tid 1995632640] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 20:17:15.346977 2016] [wsgi:warn] [pid 649:tid 1995919360] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 20:17:15.348296 2016] [wsgi:warn] [pid 649:tid 1995919360] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 20:17:15.353753 2016] [mpm_event:notice] [pid 649:tid 1995919360] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 20:17:15.354023 2016] [core:notice] [pid 649:tid 1995919360] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 20:17:14.608661 2016] [wsgi:warn] [pid 647:tid 1995661312] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 20:17:14.609904 2016] [wsgi:warn] [pid 647:tid 1995661312] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 20:17:14.614243 2016] [mpm_event:notice] [pid 647:tid 1995661312] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 20:17:14.614451 2016] [core:notice] [pid 647:tid 1995661312] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 20:17:15.087367 2016] [wsgi:warn] [pid 648:tid 1995886592] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 20:17:15.093382 2016] [wsgi:warn] [pid 648:tid 1995886592] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 20:17:15.097338 2016] [mpm_event:notice] [pid 648:tid 1995886592] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 20:17:15.097589 2016] [core:notice] [pid 648:tid 1995886592] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 22:17:11.863324 2016] [wsgi:warn] [pid 649:tid 1996337152] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 22:17:11.869682 2016] [wsgi:warn] [pid 649:tid 1996337152] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 22:17:11.875503 2016] [mpm_event:notice] [pid 649:tid 1996337152] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 22:17:11.875807 2016] [core:notice] [pid 649:tid 1996337152] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 23:46:04.107882 2016] [mpm_event:notice] [pid 649:tid 1996337152] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 22 23:46:04.155641 2016] [wsgi:warn] [pid 649:tid 1996337152] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 23:46:04.155800 2016] [wsgi:warn] [pid 649:tid 1996337152] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 23:46:04.156162 2016] [mpm_event:notice] [pid 649:tid 1996337152] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 23:46:04.156255 2016] [core:notice] [pid 649:tid 1996337152] AH00094: Command line: '/usr/sbin/apache2'
+/bin/sh: 1: ./test.sh: not found
+/bin/sh: 1: ./test.sh: not found
+/bin/sh: 1: ./test.sh: not found
+/bin/sh: 1: ./test.sh: not found
+[Tue Nov 22 23:58:12.997782 2016] [mpm_event:notice] [pid 649:tid 1996337152] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 22 23:58:13.044374 2016] [wsgi:warn] [pid 649:tid 1996337152] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 23:58:13.044491 2016] [wsgi:warn] [pid 649:tid 1996337152] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 23:58:13.044785 2016] [mpm_event:notice] [pid 649:tid 1996337152] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 23:58:13.044863 2016] [core:notice] [pid 649:tid 1996337152] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 23:17:57.538464 2016] [wsgi:warn] [pid 656:tid 1995919360] mod_wsgi: Compiled for Python/2.7.8.
+[Tue Nov 22 23:17:57.543791 2016] [wsgi:warn] [pid 656:tid 1995919360] mod_wsgi: Runtime using Python/2.7.9.
+[Tue Nov 22 23:17:57.549487 2016] [mpm_event:notice] [pid 656:tid 1995919360] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Tue Nov 22 23:17:57.549782 2016] [core:notice] [pid 656:tid 1995919360] AH00094: Command line: '/usr/sbin/apache2'
+/bin/sh: 1: ./test.sh: not found
+/bin/sh: 1: ./test.sh: not found
+[Wed Nov 23 00:09:57.749591 2016] [mpm_event:notice] [pid 656:tid 1995919360] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 23 00:09:57.813318 2016] [wsgi:warn] [pid 656:tid 1995919360] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 00:09:57.813484 2016] [wsgi:warn] [pid 656:tid 1995919360] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 00:09:57.813862 2016] [mpm_event:notice] [pid 656:tid 1995919360] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 00:09:57.813975 2016] [core:notice] [pid 656:tid 1995919360] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 00:17:16.529945 2016] [wsgi:warn] [pid 649:tid 1995685888] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 00:17:16.533832 2016] [wsgi:warn] [pid 649:tid 1995685888] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 00:17:16.539436 2016] [mpm_event:notice] [pid 649:tid 1995685888] AH00489: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 00:17:16.539712 2016] [core:notice] [pid 649:tid 1995685888] AH00094: Command line: '/usr/sbin/apache2'
+/bin/sh: 1: ./test.sh: not found
+/bin/sh: 1: ./test.sh: not found
+/bin/sh: 1: ./test.sh: not found
+[Wed Nov 23 00:40:09.150772 2016] [mpm_event:notice] [pid 649:tid 1995685888] AH00491: caught SIGTERM, shutting down
+[Wed Nov 23 00:40:10.424537 2016] [wsgi:warn] [pid 3530] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 00:40:10.424951 2016] [wsgi:warn] [pid 3530] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 00:40:10.438606 2016] [mpm_prefork:notice] [pid 3530] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 00:40:10.438887 2016] [core:notice] [pid 3530] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 00:40:14.321289 2016] [mpm_prefork:notice] [pid 3530] AH00169: caught SIGTERM, shutting down
+[Wed Nov 23 00:40:16.137484 2016] [wsgi:warn] [pid 3633] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 00:40:16.137707 2016] [wsgi:warn] [pid 3633] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 00:40:16.155676 2016] [mpm_prefork:notice] [pid 3633] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 00:40:16.155962 2016] [core:notice] [pid 3633] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 01:06:07.221649 2016] [mpm_prefork:notice] [pid 3633] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 23 01:06:07.623120 2016] [wsgi:warn] [pid 3633] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 01:06:07.623284 2016] [wsgi:warn] [pid 3633] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 01:06:07.623776 2016] [mpm_prefork:notice] [pid 3633] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 01:06:07.623858 2016] [core:notice] [pid 3633] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 01:17:13.775411 2016] [wsgi:warn] [pid 655] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 01:17:13.777028 2016] [wsgi:warn] [pid 655] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 01:17:13.791086 2016] [mpm_prefork:notice] [pid 655] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 01:17:13.791313 2016] [core:notice] [pid 655] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 01:17:12.762159 2016] [wsgi:warn] [pid 659] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 01:17:12.763949 2016] [wsgi:warn] [pid 659] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 01:17:12.782718 2016] [mpm_prefork:notice] [pid 659] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 01:17:12.783148 2016] [core:notice] [pid 659] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 13:17:16.574021 2016] [wsgi:warn] [pid 653] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 13:17:16.574994 2016] [wsgi:warn] [pid 653] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 13:17:16.593137 2016] [mpm_prefork:notice] [pid 653] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 13:17:16.593461 2016] [core:notice] [pid 653] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 13:17:11.876309 2016] [wsgi:warn] [pid 654] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 13:17:11.878113 2016] [wsgi:warn] [pid 654] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 13:17:11.897093 2016] [mpm_prefork:notice] [pid 654] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 13:17:11.897380 2016] [core:notice] [pid 654] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 14:07:17.405338 2016] [mpm_prefork:notice] [pid 654] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 23 14:07:17.749419 2016] [wsgi:warn] [pid 654] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 14:07:17.749559 2016] [wsgi:warn] [pid 654] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 14:07:17.749956 2016] [mpm_prefork:notice] [pid 654] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 14:07:17.750012 2016] [core:notice] [pid 654] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 13:18:02.903471 2016] [wsgi:warn] [pid 663] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 13:18:02.905085 2016] [wsgi:warn] [pid 663] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 13:18:02.918423 2016] [mpm_prefork:notice] [pid 663] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 13:18:02.918662 2016] [core:notice] [pid 663] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 14:17:19.441290 2016] [wsgi:warn] [pid 660] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 14:17:19.443548 2016] [wsgi:warn] [pid 660] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 14:17:19.457519 2016] [mpm_prefork:notice] [pid 660] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 14:17:19.457753 2016] [core:notice] [pid 660] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 15:22:56.447639 2016] [mpm_prefork:notice] [pid 660] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 23 15:22:56.724954 2016] [wsgi:warn] [pid 660] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 15:22:56.725093 2016] [wsgi:warn] [pid 660] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 15:22:56.725478 2016] [mpm_prefork:notice] [pid 660] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 15:22:56.725533 2016] [core:notice] [pid 660] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 15:17:17.546670 2016] [wsgi:warn] [pid 664] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 15:17:17.548623 2016] [wsgi:warn] [pid 664] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 15:17:17.567408 2016] [mpm_prefork:notice] [pid 664] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 15:17:17.567725 2016] [core:notice] [pid 664] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 15:17:17.441912 2016] [wsgi:warn] [pid 783] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 15:17:17.443742 2016] [wsgi:warn] [pid 783] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 15:17:17.458803 2016] [mpm_prefork:notice] [pid 783] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 15:17:17.459043 2016] [core:notice] [pid 783] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 15:17:14.278353 2016] [wsgi:warn] [pid 662] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 15:17:14.279359 2016] [wsgi:warn] [pid 662] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 15:17:14.305871 2016] [mpm_prefork:notice] [pid 662] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 15:17:14.306169 2016] [core:notice] [pid 662] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 15:17:16.502484 2016] [wsgi:warn] [pid 670] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 15:17:16.504897 2016] [wsgi:warn] [pid 670] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 15:17:16.531217 2016] [mpm_prefork:notice] [pid 670] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 15:17:16.531502 2016] [core:notice] [pid 670] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 20:17:14.185819 2016] [wsgi:warn] [pid 666] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 20:17:14.187484 2016] [wsgi:warn] [pid 666] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 20:17:14.201370 2016] [mpm_prefork:notice] [pid 666] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 20:17:14.201618 2016] [core:notice] [pid 666] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 20:37:28.949527 2016] [mpm_prefork:notice] [pid 666] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 23 20:37:29.389560 2016] [wsgi:warn] [pid 666] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 20:37:29.389714 2016] [wsgi:warn] [pid 666] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 20:37:29.390114 2016] [mpm_prefork:notice] [pid 666] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 20:37:29.390168 2016] [core:notice] [pid 666] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Nov 23 21:17:54.710510 2016] [wsgi:warn] [pid 708] mod_wsgi: Compiled for Python/2.7.8.
+[Wed Nov 23 21:17:54.712179 2016] [wsgi:warn] [pid 708] mod_wsgi: Runtime using Python/2.7.9.
+[Wed Nov 23 21:17:54.726273 2016] [mpm_prefork:notice] [pid 708] AH00163: Apache/2.4.10 (Raspbian) mod_wsgi/4.3.0 Python/2.7.9 configured -- resuming normal operations
+[Wed Nov 23 21:17:54.726523 2016] [core:notice] [pid 708] AH00094: Command line: '/usr/sbin/apache2'
